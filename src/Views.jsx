@@ -1,5 +1,5 @@
 import React from 'react';
-import Dashboard from './Dashboard';
+import Dashboard from './Dashboard2';
 import { Routes, Route } from 'react-router-dom';
 
 const Views = () => {
